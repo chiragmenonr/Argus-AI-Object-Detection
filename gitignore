@@ -1,1 +1,10 @@
-
+# Model weights are ~250 MB, over GitHub's 100 MB file limit; detect.py downloads them.
+models/
+*.h5
+*.keras
+ 
+*_detected.*
+__pycache__/
+*.pyc
+.venv/
+venv/
