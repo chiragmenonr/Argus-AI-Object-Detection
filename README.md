@@ -37,7 +37,7 @@ What you're seeing:
 
 | Before | After |
 |:---:|:---:|
-| <img width="1476" alt="obj_det_image" src="https://github.com/user-attachments/assets/37d328b8-ffb7-4ccc-836a-6c58f9eb444a" /> | <img width="400" alt="obj_det_image_detected" src="https://github.com/user-attachments/assets/3711bf5e-62e0-4427-a965-47ba5d10c130" /> |
+| <img width="400" alt="obj_det_image" src="https://github.com/user-attachments/assets/37d328b8-ffb7-4ccc-836a-6c58f9eb444a" /> | <img width="400" alt="obj_det_image_detected" src="https://github.com/user-attachments/assets/3711bf5e-62e0-4427-a965-47ba5d10c130" /> |
 | A busy city street | Buses, cars, pedestrians and traffic lights, each boxed and scored |
 
 
