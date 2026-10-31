@@ -14,6 +14,8 @@ Argus is an object detector for driving scenes built on **YOLOv3**, one of the m
 
 This is Argus running on real street footage. Each frame of the video goes through the network separately, and the boxes are redrawn every frame. That's why they follow the cars as they move.
 
+https://github.com/user-attachments/assets/36151778-992b-45f3-9078-829c6d434b4a
+
 What you're seeing:
 
 - **Box color** = the type of object (each of the 80 classes gets its own color)
@@ -233,14 +235,14 @@ python3 detect.py street.jpg --obj-thresh 0.6   # stricter detection
 
 ### Option 2: Browser demo
 
-```bash
-python3 app.py
-```
+
+
+
 
 This starts a small web page on your own computer. Open **http://localhost:7860** in any browser, drag in a photo, adjust the two sliders, and click **Submit**. The labeled image appears on the right. You can try different settings without retyping commands. Press `Ctrl + C` in the terminal to shut it down.
 
 <p align="center">
-  <img src="assets/web-demo.jpg" width="820" alt="Browser demo: uploaded photo on the left, detections on the right, threshold sliders below">
+  <p align="center"><img width="720" height="738" alt="sliders" src="https://github.com/user-attachments/assets/e34ab1f0-a5e3-4c21-8f78-20d7bd70f12b" /></p>
 </p>
 
 ---
