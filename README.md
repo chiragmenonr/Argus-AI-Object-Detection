@@ -4,8 +4,11 @@
 
 Argus is an object detector for driving scenes built on **YOLOv3**, one of the most widely used real-time detection models. It looks at an entire image in a single pass, which makes it fast enough to run frame by frame on video. It recognizes 80 kinds of objects out of the box.
 
+
+
+
 <p align="center">
-  <img src="assets/after.jpg" width="820" alt="Busy street with buses, cars, pedestrians and traffic lights boxed and labeled">
+  <img width="820" alt="car_image_detected" src="https://github.com/user-attachments/assets/7ee6d92a-ad37-4f17-a0ad-16d3b21141d8" />
 </p>
 
 ---
